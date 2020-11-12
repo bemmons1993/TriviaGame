@@ -60,6 +60,7 @@ $(document).ready(function(){
       trivia.nextQuestion();
       
     },
+    
     nextQuestion : function(){
       
       trivia.timer = 10;
