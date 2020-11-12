@@ -1,6 +1,7 @@
 body{
 	background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/4/41/South_Park_main_characters.png/250px-South_Park_main_characters.png);
 	text-align: center;
+
 }
 
 .option{
@@ -12,5 +13,5 @@ div{
 }
 
 .last-seconds{
-	color: rgb(233, 6, 6);
+	color: rgb(214, 14, 14);
   }
