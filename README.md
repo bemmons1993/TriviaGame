@@ -27,4 +27,8 @@ Go ahead! Click on the following link to preview the completed assignment.
 * JavaScript 
 * [jQuery](https://api.jquery.com/) - JavaScript Library
 
+---
 
+Screenshot of the App: [https://ibb.co/7yg9Nmm]
+
+---
